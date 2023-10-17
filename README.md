@@ -8,4 +8,5 @@ pnpm dev
 
 ## Live link
 
-[Link here:]()
+[Link here:](https://wokpa-theta.vercel.app/)
+[Dashboard](https://wokpa-theta.vercel.app/dashboard)
